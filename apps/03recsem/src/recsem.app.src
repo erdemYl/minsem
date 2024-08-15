@@ -1,0 +1,9 @@
+{application, mapsem, [
+  {description, "Minimal record semantic subtyping library"},
+  {vsn, "v1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]}
+]}.
